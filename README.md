@@ -1,4 +1,4 @@
-<h1 align="center">Hi There 👋 Milton Manuel Avalos Pucyura</h1>
+<h1 align="center">Hi There 👋 , My Name is : Milton Manuel Avalos Pucyura</h1>
 <h3 align="center">Soy un apacionado por las nuevas tendencias tecnológicas, he desarrollado alta capacidad de análisis gracias a los diferentes proyectos que he realizado, ellos me han llevado a lograr una adaptación al cambio, así como la mejora de mis habilidades blandas. Tengo como objetivo seguir amplificando mis conocimientos, y crecer profesionalmente como personalmente.</h3>
 <img align="rigth" alt="coding" width="400" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" >
 
