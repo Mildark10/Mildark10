@@ -5,8 +5,17 @@
 </h1>
 
 <h3 align="center">
-  <img alt="Typing Subtitle" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3500&pause=800&color=FF6EC7&center=true&vCenter=true&width=700&lines=💻+Software+Developer;🌍+Passionate+about+Technology+and+Continuous+Learning;🚀+Always+Learning+and+Building">
+  <span style="animation: fadeIn 4s ease-in-out infinite alternate;">
+    💻 Software Developer | 🌍 Passionate about technology and continuous learning
+  </span>
 </h3>
+
+<style>
+@keyframes fadeIn {
+  from { opacity: 0.2; }
+  to { opacity: 1; }
+}
+</style>
 
 <p align="center">
   <img alt="Matrix Code" width="500" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
