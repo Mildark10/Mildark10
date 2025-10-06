@@ -1,4 +1,8 @@
-<h1 align="center">👋 Hi There, I'm Milton Manuel Avalos Pucyura</h1>
+<h1 align="center">👋 Hi There, I'm  <p align="center">
+  <img alt="Matrix Code" width="500" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif"><br>
+  <img alt="Milton Avalos Typing" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=500&color=00FFFF&center=true&vCenter=true&width=500&lines=Milton+Manuel+Avalos+Pucyura">
+</p>
+
 <h3 align="center">
 💻 Software Developer | 🌍 Passionate about technology and continuous learning
 </h3>
