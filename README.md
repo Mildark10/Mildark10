@@ -64,11 +64,13 @@ Through my professional journey, I’ve learned to adapt quickly to new technolo
 
 ---
 
-### 📊 GitHub Stats  
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mildark10&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+### 📊 GitHub Stats & Activity  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mildark10&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="180em"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mildark10&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="180em"/>
 </p>
 
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mildark10&show_icons=true&locale=en" alt="GitHub Stats" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mildark10&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="150em"/>
 </p>
