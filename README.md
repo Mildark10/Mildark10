@@ -5,8 +5,9 @@
 </h1>
 
 <h3 align="center">
-  <img alt="Typing Software Developer" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=500&color=FF6EC7&center=true&vCenter=true&width=600&lines=💻+Software+Developer;🌍+Passionate+about+Technology+and+Continuous+Learning;🚀+Always+Building+and+Improving">
+  <img alt="Software Developer Animation" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FFFF&center=true&vCenter=true&width=500&lines=💻+Software+Developer;🌍+Tech+Enthusiast;🚀+Always+Learning+Something+New">
 </h3>
+
 
 
 <p align="center">
