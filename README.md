@@ -5,7 +5,7 @@
 </h1>
 
 <h3 align="center">
-  <img alt="Software Developer Animation" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FFFF&center=true&vCenter=true&width=500&lines=💻+Software+Developer;🌍+Tech+Enthusiast;🚀+Always+Learning+Something+New">
+    ⚡💻 Software Developer 💥 | 🌍 Passionate about tech & growth 🚀
 </h3>
 
 
