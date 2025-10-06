@@ -4,8 +4,9 @@
 </h3>
 
 <p align="center">
-  <img alt="Coding" width="400" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif">
+  <img alt="Coding Fire" width="500" src="https://i.pinimg.com/originals/6a/75/33/6a75333bfc6a7b4b05ce4e9d6a460b88.gif">
 </p>
+
 
 ---
 
