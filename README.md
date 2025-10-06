@@ -5,17 +5,9 @@
 </h1>
 
 <h3 align="center">
-  <span style="animation: fadeIn 4s ease-in-out infinite alternate;">
-    💻 Software Developer | 🌍 Passionate about technology and continuous learning
-  </span>
+  <img alt="Typing Software Developer" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=500&color=FF6EC7&center=true&vCenter=true&width=600&lines=💻+Software+Developer;🌍+Passionate+about+Technology+and+Continuous+Learning;🚀+Always+Building+and+Improving">
 </h3>
 
-<style>
-@keyframes fadeIn {
-  from { opacity: 0.2; }
-  to { opacity: 1; }
-}
-</style>
 
 <p align="center">
   <img alt="Matrix Code" width="500" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
